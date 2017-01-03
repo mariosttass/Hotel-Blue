@@ -1,0 +1,31 @@
+
+@-moz-document url-prefix() {
+.selector {
+/* definitions go here */
+}
+}
+/* καθορισμος που θα βρισκεται ο πινακας του login μεσα στην σελιδα  */
+.mid1
+{
+position:absolute;
+right:-075px;
+top:-50px;
+width:250px;
+
+
+
+}
+/* ορισμός μεγεθους κ γραμματοσειρας της παραγραφου */
+.styl
+{
+	font-family:Arial,Calibri;
+	font-size:16px;
+	
+}
+
+/*το στυλ που θα εχει ο υπερσυνδεσμος ακομα κ οταν το ποντίκι το πατάει */
+.x
+{
+color:black; 
+text-decoration:none;
+}
